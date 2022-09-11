@@ -6,6 +6,18 @@ Construir um componente de cartão de visualização e fazê-lo parecer o mais p
 ## Aprendizado ✔
 Este desafio foi proposto pelo curso DevQuest em um workshop que abordou boas práticas de CSS. Nele pude planejar o desenvolvimento do projeto, pude pensar na melhor forma de criar a estrutura base e estilizar todo o card.
 
+## Conceitos colocados em prática 💻
+- Display flex;
+- Justify-content;
+- Align-items;
+- Padding;
+- Margin;
+- Border;
+- Links;
+- Importação de fontes;
+- Criação de variáveis para cores;
+- Planejamento e análise da estrutura do projeto;
+
 ## Passo a passo realizado:
 1️⃣ Análise:
 
