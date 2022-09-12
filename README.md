@@ -59,3 +59,4 @@ Abaixo podemos vizualizar o card no navegador. Em seguida através da extenção
 [<img src="./card.gif" alt="gif do card">]
 
 ## Link do site para vizualizar em seu aparelho:
+https://emanuelly-wolski.github.io/nft-card/
