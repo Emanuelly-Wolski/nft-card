@@ -17,6 +17,7 @@ Este desafio foi proposto pelo curso DevQuest em um workshop que abordou boas pr
 - Importação de fontes;
 - Criação de variáveis para cores;
 - Planejamento e análise da estrutura do projeto;
+- Versionamento com Git para o GitHub;
 
 ## Passo a passo realizado:
 1️⃣ Análise:
